@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Table_java">
+    <output-path>$PROJECT_DIR$/out/artifacts/Table_java</output-path>
+    <root id="root">
+      <element id="archive" name="Table_java.jar">
+        <element id="module-output" name="Spiridonov_lab1,2_ProjectTable" />
+      </element>
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
